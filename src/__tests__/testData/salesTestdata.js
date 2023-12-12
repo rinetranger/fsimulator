@@ -1,0 +1,8 @@
+const salesValueStates = [
+    {"fy":"2022","accntCode":"49999","accntName":"売上高合計","amt":"108264385451","growthRate":".0","version":"2023.1Q ver001"},{"fy":"2022","accntCode":"49999","accntName":"売上高合計","amt":"110084498619","growthRate":".0","version":"2022.4Q ver001"},{"fy":"2023","accntCode":"49999","accntName":"売上高合計","amt":"134979521000","growthRate":"22.6","version":"2022.4Q ver001"},{"fy":"2024","accntCode":"49999","accntName":"売上高合計","amt":"156732800000","growthRate":"16.1","version":"2022.4Q ver001"},{"fy":"2025","accntCode":"49999","accntName":"売上高合計","amt":"255791000000","growthRate":"63.2","version":"2022.4Q ver001"},{"fy":"2026","accntCode":"49999","accntName":"売上高合計","amt":"303776000000","growthRate":"18.8","version":"2022.4Q ver001"},{"fy":"2027","accntCode":"49999","accntName":"売上高合計","amt":"360460000000","growthRate":"18.7","version":"2022.4Q ver001"},{"fy":"2023","accntCode":"49999","accntName":"売上高合計","amt":"134979521000","growthRate":"24.7","version":"2023.1Q ver001"},{"fy":"2024","accntCode":"49999","accntName":"売上高合計","amt":"156732800000","growthRate":"16.1","version":"2023.1Q ver001"},{"fy":"2025","accntCode":"49999","accntName":"売上高合計","amt":"255791000000","growthRate":"63.2","version":"2023.1Q ver001"},{"fy":"2026","accntCode":"49999","accntName":"売上高合計","amt":"303776000000","growthRate":"18.8","version":"2023.1Q ver001"},{"fy":"2027","accntCode":"49999","accntName":"売上高合計","amt":"360460000000","growthRate":"18.7","version":"2023.1Q ver001"}];
+  
+  const newvdSelectors = {
+    version: "2023.1Q ver001"
+  };
+
+  export default {salesValueStates,newvdSelectors};
